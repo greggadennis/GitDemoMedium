@@ -3,4 +3,4 @@ def hello:
 def greeting:
     return "Welcome, Sanjula!"
 def new_func:
-    pass
+    print('new function')
